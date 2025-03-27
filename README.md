@@ -1,7 +1,13 @@
 ## Hi there, I'm Jennifer👋
 
 # 💫 About Me:
- 🔭 I’m currently working on enhancing my technical skills and portfolio <br><br> 🌱 I’m currently exploring Electron.js and Next.js <br><br> 🤔 I’m looking for help with joining a learning community <br><br> 💬 Ask me about my proudest projects <br><br> 📫 How to reach me: https://www.linkedin.com/in/jennifer-chiang77 <br><br> 😄 Pronouns: she/her <br><br> ⚡ Fun fact: I'm a dancer, poet, pickleball player, anime watcher, and I love Taylor Swift!
+ 🔭 I’m currently working on enhancing my technical skills and portfolio <br>
+ 🌱 I’m currently exploring Electron.js and Next.js <br>
+ 🤔 I’m looking for help with joining a learning community <br>
+ 💬 Ask me about my proudest projects <br>
+ 📫 How to reach me: https://www.linkedin.com/in/jennifer-chiang77 <br>
+ 😄 Pronouns: she/her <br>
+ ⚡ Fun fact: I'm a dancer, poet, pickleball player, anime watcher, and I love Taylor Swift!
 
 
 ## 🌐 Socials:
@@ -23,7 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=77jennifer77&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can support me with some coffee donations ;)
+  ## 💰 You can support me with some coffee  😉
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jenniferchiang77) 
 
   
